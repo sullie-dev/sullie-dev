@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hey there, I'm Eoghan - aka [Sullie][website] 👋
 
-<!--
-**sullie-dev/sullie-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+## I'm a Developer, and customer experience expert!
+A bit about me:
+- 🔭 I’m currently working on [Lynksy]
+- 🌱 I’m currently learning React.js & Python
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I am an avid fisher and gamer
+
+### Connect with me on:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br>
+<br>
+
+
+<img align="left" alt="Sullied.dev's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sullie-dev&show_icons=true&hide_border=true" />
+
+
+[website]: https://sullie.dev
+[lynksy]: https://lynksy-prod.herokuapp.com/
+[twitter]: https://twitter.com/sullie_dev
+[instagram]: https://instagram.com/sullie.dev
+[linkedin]: https://linkedin.com/in/sullie-dev
