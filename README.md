@@ -1,6 +1,6 @@
-### Hey there, I'm Eoghan - aka [Sullie][website] 👋
+## Hey there, I'm Eoghan - aka [Sullie][website] 👋
 
-## I'm a Developer, and customer experience expert!
+### I'm a Developer, and customer experience expert!
 A bit about me:
 - 🔭 I’m currently working on [Lynksy] & a socail media bot
 - 🌱 I’m currently learning React.js & Python
