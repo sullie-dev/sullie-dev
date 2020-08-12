@@ -7,6 +7,16 @@ A bit about me:
 - 👯 I’m looking to collaborate on interesting open source projects
 - ⚡ Fun fact: I am an avid fisher and gamer
 
+### What is Lynksy?
+[Lynksy] is a project I have been owkring on for the 100 Days Of Code challange, it is a basic 'bio-link tool' which is designed to be at the moment to be free and let content cretators desgn their bio links with out needed to worry about fees.
+
+#### Future Features of Lynksy;
+- The ability to upload images
+- Being able to drag and drop the links to the desired layout
+- Analyitcis to see how many times their link has been visited
+- Integration with WordPress via plugin
+- Mobile Application to edit on the fly
+
 ### Connect with me on:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
