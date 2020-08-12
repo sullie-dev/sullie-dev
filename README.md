@@ -29,6 +29,7 @@ A bit about me:
 
 # 📖 Blog posts 📖
 <!-- BLOG-POST-LIST:START -->
+- [Null Value Node Js — Sullie](https://medium.com/@sullie.dev/null-value-node-js-sullie-336f1ae80751?source=rss-8ff1d097a193------2)
 <!-- BLOG-POST-LIST:END -->
 
 <img align="left" alt="Sullie.dev's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sullie-dev&show_icons=true&hide_border=true" />
