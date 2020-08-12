@@ -4,7 +4,7 @@
 A bit about me:
 - 🔭 I’m currently working on [Lynksy] & a socail media bot
 - 🌱 I’m currently learning React.js & Python
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on interesting open source projects
 - ⚡ Fun fact: I am an avid fisher and gamer
 
 ### Connect with me on:
@@ -17,7 +17,7 @@ A bit about me:
 <br>
 <br>
 
-# 📖 Blog posts
+# 📖 Blog posts 📖
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
