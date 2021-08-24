@@ -2,41 +2,34 @@
 
 ### I'm a Developer, and customer experience expert!
 A bit about me:
-- 🔭 I’m currently working on [Lynksy] & a socail media bot
-- 🌱 I’m currently learning React.js & Python
-- 👯 I’m looking to collaborate on interesting open source projects
-- ⚡ Fun fact: I am an avid fisher and gamer
+- 🔭 I’m currently working on [Lynksy] & [Tracker of Thieves][tot]
+- 🌱 I’m currently learning Django e-commerce stack
+- 🤓 Currently undertaking the Code Institute's Diploma in Full Stack Software Development
+- 👯 I’m looking to collaborate on some interesting projects
 
-### What is Lynksy?
-[Lynksy] is a project I have been owkring on for the 100 Days Of Code challange, it is a basic 'bio-link tool' which is designed to be at the moment to be free and let content cretators desgn their bio links with out needed to worry about fees.
+### A bit about the projects I am working on?
+[Lynksy] is a project that I started for the 100 days of code challenge, it is a link in bio tool which I plan to flesh out and rebuild using elements from React along with a few other frameworks. [Tracker of Thieves][tot] is a brainchild I had while playing the video game [Sea of Thieves](https://www.seaofthieves.com/) which allows you to search for locations to receive the co-ordinates on the world map. 
 
-#### Future Features of Lynksy;
-- The ability to upload images
-- Being able to drag and drop the links to the desired layout
-- Analyitcis to see how many times their link has been visited
-- Integration with WordPress via plugin
-- Mobile Application to edit on the fly
+#### Future Projects;
+- Rebuild of [Lynksy]
+- Wedding website
+- Wordpress & Shopify theme(s) 
+- E-commerce projects
 
 ### Connect with me on:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br>
-<br>
 
-# 📖 Blog posts 📖
-<!-- BLOG-POST-LIST:START -->
-- [Null Value Node Js — Sullie](https://sullie-dev.medium.com/null-value-node-js-sullie-336f1ae80751?source=rss-8ff1d097a193------2)
-<!-- BLOG-POST-LIST:END -->
-
-<img align="left" alt="Sullie.dev's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sullie-dev&show_icons=true&hide_border=true" />
+<!-- <img align="left" alt="Sullie.dev's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sullie-dev&show_icons=true&hide_border=true" /> -->
 
 
 [website]: https://sullie.dev
-[lynksy]: https://lynksy-prod.herokuapp.com/
+[lynksy]: https://lynksy.me
+[tot]: https://tracker-of-thieves.vercel.app/
 [twitter]: https://twitter.com/sullie_dev
 [instagram]: https://instagram.com/sullie.dev
 [linkedin]: https://linkedin.com/in/sullie-dev
