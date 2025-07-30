@@ -1,20 +1,28 @@
-## Hey there, I'm Eoghan - aka [Sullie][website] 👋
+# Hey there, I'm Eoghan 👋
 
-### I'm a Developer, and customer experience expert!
-A bit about me:
-- 🔭 I’m currently working on [Lynksy] & [Tracker of Thieves][tot]
-- 🌱 I’m currently learning Django e-commerce stack
-- 🤓 Currently undertaking the Code Institute's Diploma in Full Stack Software Development
-- 👯 I’m looking to collaborate on some interesting projects
+I'm a developer and customer experience expert, easing back into code after a
+bit of time away.
 
-### A bit about the projects I am working on?
-[Lynksy] is a project that I started for the 100 days of code challenge, it is a link in bio tool which I plan to flesh out and rebuild using elements from React along with a few other frameworks. [Tracker of Thieves][tot] is a brainchild I had while playing the video game [Sea of Thieves](https://www.seaofthieves.com/) which allows you to search for locations to receive the co-ordinates on the world map. 
+## A bit about me:
 
-#### Future Projects;
-- Rebuild of [Lynksy]
-- Wedding website
-- Wordpress & Shopify theme(s) 
-- E-commerce projects
+🔭 Revisiting old projects like **Lynksy** & **Tracker of Thieves**  
+🌱 Currently learning **Ruby** and re-exploring **Python**  
+🤝 Open to collaborating on interesting or fun side projects
+
+## What am I working on?
+
+**Learning Ruby** and re-exploring Python to rebuild my coding fluency.  
+Tinkering with personal projects and rebuilding some of my old favourites as a
+way to get comfortable again.
+
+## Future Projects:
+
+- 🏠 Home server automation & tooling
+- ⚙️ Exploring new frameworks and building with them
+- 🧪 Continued experiments with small tools and services
+
+> 💡 After a break from development, I'm taking things one step at a time —
+> relearning, rebuilding, and rediscovering why I love code.
 
 ### Connect with me on:
 
@@ -23,9 +31,7 @@ A bit about me:
 [<img align="left" alt="LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
 <!-- <img align="left" alt="Sullie.dev's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sullie-dev&show_icons=true&hide_border=true" /> -->
-
 
 [website]: https://sullie.dev
 [lynksy]: https://lynksy.me
